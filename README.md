@@ -367,3 +367,8 @@ Framework. His focus and experience are predominantly in the financial
 services sector, gaining expert knowledge of the Spring Boot and Kafka
 framework. Experienced in event-driven programming principles, using a
 mixture of open source and Confluent Kafka.
+
+## Next Steps
+The 2 day workshop provides a strategic advantage and increases the successful adoption of Kafka at scale. We tailor each workshop to the needs of the client, in our experience, 90% of organisations participating in the workshop proceed with the recommendations. 
+
+Have any questions? Require a sample of the workshop outputs? Email us [enquiries@osodevops.io](mailto:enquiries@osodevops.io) or [schedule a call](https://calendly.com/sionsmith/oso-devops)
